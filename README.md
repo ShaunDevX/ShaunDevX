@@ -1,5 +1,5 @@
 👋 Hey there, I'm Shaun!
-I'm a 25-year old developer from Wales, passionate about coding and building exciting projects. I specialise in:
+I'm a 25-year-old developer from Wales, passionate about coding and building exciting projects. I specialise in:
 
 🚗 FiveM Development – Creating immersive experiences.
 🌐 Web Development – Bringing ideas to life on the web.
