@@ -1,6 +1,6 @@
 👋 Hey there, 
 
-I'm Shaun! A 25-year old developer from Wales, passionate about coding and building projects. 
+I'm Shaun! A developer from Wales, passionate about coding and building projects. 
 
 I specialise in:
 
