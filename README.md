@@ -4,14 +4,11 @@ I'm Shaun! A developer from Wales, passionate about coding and building projects
 
 I specialise in:
 
- 🚗 FiveM Development – Creating immersive experiences.
+FiveM Development & Web Development 
 
- 🌐 Web Development – Bringing ideas to life on the web.
-
- 💻 Programming Languages – Java, Lua, and Python.
+💻 Programming Languages – Java, Lua, C++ and Python.
 
 I'm always learning, improving, and working on new projects. Check out my repos and feel free to connect!🚀<br><br>
-
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/VNTheLetterM) 
